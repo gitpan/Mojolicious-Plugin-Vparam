@@ -1,0 +1,27 @@
+--- #YAML:1.0
+name:               Mojolicious-Plugin-Vparam
+version:            0.3
+abstract:           Mojolicious plugin validator for GET/POST data.
+author:
+    - Dmitry E. Oboukhov <unera@debian.org>,
+    - Roman V. Nikolaev <rshadow@rambler.ru>
+license:            Perl
+distribution_type:  module
+configure_requires:
+    ExtUtils::MakeMaker:  0
+build_requires:
+    ExtUtils::MakeMaker:  0
+requires:
+    DateTime:             0
+    DateTime::Format::DateParse:  0
+    List::MoreUtils:      0
+    Mail::RFC822::Address:  0
+    Mojo::Base:           0
+no_index:
+    directory:
+        - t
+        - inc
+generated_by:       ExtUtils::MakeMaker version 6.57_05
+meta-spec:
+    url:      http://module-build.sourceforge.net/META-spec-v1.4.html
+    version:  1.4
