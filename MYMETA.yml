@@ -25,7 +25,9 @@ requires:
   List::MoreUtils: 0
   Mail::RFC822::Address: 0
   Mojo::Base: 0
+  Test::Compile: 0
+  Test::More: 0
 resources:
   bugtracker: https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues
   homepage: https://github.com/dr-co/libmojolicious-plugin-vparam-perl
-version: 0.4
+version: 0.5
