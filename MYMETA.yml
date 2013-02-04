@@ -27,7 +27,8 @@ requires:
   Mojo::Base: 0
   Test::Compile: 0
   Test::More: 0
+  perl: 5.010000
 resources:
   bugtracker: https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues
   homepage: https://github.com/dr-co/libmojolicious-plugin-vparam-perl
-version: 0.5
+version: 0.6

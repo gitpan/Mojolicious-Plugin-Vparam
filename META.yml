@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Mojolicious-Plugin-Vparam
-version:            0.5
+version:            0.6
 abstract:           Mojolicious plugin validator for GET/POST data.
 author:
     - Dmitry E. Oboukhov <unera@debian.org>,
@@ -17,6 +17,7 @@ requires:
     List::MoreUtils:      0
     Mail::RFC822::Address:  0
     Mojo::Base:           0
+    perl:                 5.010000
     Test::Compile:        0
     Test::More:           0
 resources:
