@@ -31,4 +31,4 @@ requires:
 resources:
   bugtracker: https://github.com/dr-co/libmojolicious-plugin-vparam-perl/issues
   homepage: https://github.com/dr-co/libmojolicious-plugin-vparam-perl
-version: 0.6
+version: 0.7
